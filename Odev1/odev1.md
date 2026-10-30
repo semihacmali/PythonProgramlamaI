@@ -106,15 +106,6 @@ Geçersiz işlem.
 
 > **Not:** Python'da `//` işlemi aşağı yuvarlayarak bölme yapar. Örneğin `10 // 3` sonucu `3`, `-10 // 3` sonucu `-4` olur.
 
-### Değerlendirme (50 puan)
-
-| Ölçüt | Puan |
-|---|---:|
-| İki sayı ve işlem operatörünün kullanıcıdan alınması | 10 |
-| Altı operatörün doğru uygulanması | 20 |
-| `if` / `elif` / `else` yapısının doğru kullanılması | 10 |
-| Sıfıra bölme ve geçersiz operatör kontrolü | 5 |
-| Çıktıların anlaşılır olması ve kod düzeni | 5 |
 
 ## Teslim ve Kontrol Listesi
 
